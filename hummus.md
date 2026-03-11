@@ -6,3 +6,4 @@
 * garlic
 * olive oil
 ## Instructions
+1. Blend all the ingrideints together
